@@ -38,7 +38,7 @@ The primary business challenges identified include:
 * Age: age of customer.
 
 ### ii. Aggregated Metrics:
-Below are the aggregated measures to make sure the objectives of the project are achieved. Tey are :
+Below are the aggregated measures to make sure the objectives of the project are achieved. They are :
 * Average Frequency of SMS.
 * Average Frequency of Use,
 * Average Seconds of Use per Customer,
