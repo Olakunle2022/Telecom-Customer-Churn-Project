@@ -66,7 +66,7 @@ vi. Data Visualization: Developing clear and actionable visual representations o
 
 
 ### Data Visualization - Dashboard using Tableau 
-![](telecom_churn_customers_dashboard.png)
+![](customer_churn_dashboard.png)
 
 ## 5.	Insights and Analysis:  
 ### i.	Key Performance Indicators:
