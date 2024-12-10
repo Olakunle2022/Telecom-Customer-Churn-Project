@@ -11,6 +11,8 @@ This project intends to solve the following objectives:
 
 By doing this, business can spot who's likely to leave and try to keep their best customers around. It's all about keeping people happy with the service so they stick around longer. The main idea is to have fewer customers leaving and more staying loyal to the company.
 
+**_Disclaimer: This project was created using a dataset from DataCamp, designed to support learning and skill development. The insights and findings are meant to showcase analytical techniques._**
+
 ## 2.	Statement of Problem: 
 The Telecom provider is facing high churn rates, particularly among customers using the Pay As You Go tariff plan. Notably, there is a significant churn rate within the middle-aged and young adult demographics. 
 The primary business challenges identified include: 
