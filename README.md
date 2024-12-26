@@ -66,6 +66,13 @@ v. Predictive Modeling: Gaining insights into customer behavior through basic mo
 
 vi. Data Visualization: Developing clear and actionable visual representations of the data to support business decisions. 
 
+## Explore the Dashboards
+
+Dive into these interactive **Customer Churn Dashboard** to explore key insights.
+
+### 1. Customer Churn Dashboard
+
+[![View Customer Churn Dashboard](https://img.shields.io/badge/View-Dashboard-orange?style=for-the-badge)](https://public.tableau.com/views/TelecomCustomerChurnDasboard41/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Data Visualization - Dashboard using Tableau 
 ![](customer_churn_dashboard.png)
