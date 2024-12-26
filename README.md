@@ -68,7 +68,7 @@ vi. Data Visualization: Developing clear and actionable visual representations o
 
 ## Explore the Dashboards
 
-Dive into these interactive **Customer Churn Dashboard** to explore key insights.
+Dive into this interactive **Customer Churn Dashboard** to explore key insights.
 
 ### 1. Customer Churn Dashboard
 
